@@ -1,0 +1,27 @@
+pitch_type,altitude,stuff_plus,n
+Changeup,Extreme Altitude,99.45412,9330
+Changeup,Medium Altitude,99.85003,8687
+Changeup,No Altitude,100.32576,20391
+Curveball,Extreme Altitude,99.64247,6519
+Curveball,Medium Altitude,99.627815,6060
+Curveball,No Altitude,100.42708,10681
+Cutter,Extreme Altitude,99.83557,4934
+Cutter,Medium Altitude,100.14158,3220
+Cutter,No Altitude,100.08808,4727
+Four-Seam,Extreme Altitude,98.11498,28413
+Four-Seam,Medium Altitude,98.872,25506
+Four-Seam,No Altitude,101.77739,46809
+Other,Extreme Altitude,88.37804,1
+Other,No Altitude,100.43045,27
+Sinker,Extreme Altitude,99.0923,14210
+Sinker,Medium Altitude,99.423676,10799
+Sinker,No Altitude,100.76343,25398
+Slider,Extreme Altitude,99.70851,20697
+Slider,Medium Altitude,99.637146,17409
+Slider,No Altitude,100.43579,28879
+Splitter,Extreme Altitude,99.932915,1184
+Splitter,Medium Altitude,99.79629,807
+Splitter,No Altitude,100.170815,1744
+OneSeamFastBall,Extreme Altitude,,1
+Sweeper,Extreme Altitude,100.0,308
+Knuckleball,Extreme Altitude,,1

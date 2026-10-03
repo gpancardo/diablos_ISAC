@@ -1,0 +1,26 @@
+{
+  "tag": "r1",
+  "target": "xrun_value",
+  "model": "xgb",
+  "features": "pitching+",
+  "holdout": "park",
+  "n_folds": 1,
+  "n_features": 57,
+  "fold_metrics": [
+    {
+      "rmse": 0.2238739294183398,
+      "mae": 0.11081130721888104,
+      "bias": -0.0047838941999050685,
+      "null_rmse": 0.2267161153050255,
+      "rmse_ratio": 0.9874636794880602
+    }
+  ],
+  "mean": {
+    "rmse": 0.2238739294183398,
+    "mae": 0.11081130721888104,
+    "bias": -0.0047838941999050685,
+    "null_rmse": 0.2267161153050255,
+    "rmse_ratio": 0.9874636794880602
+  },
+  "elapsed_s": 91.0
+}

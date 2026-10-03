@@ -1,0 +1,18 @@
+[project]
+name = "vamosdiablos"
+version = "0.1.0"
+description = "Stuff+ Model calibrado por altitud para Diablos Rojos (LMB) — Hackathon ISAC 2026"
+requires-python = ">=3.12"
+dependencies = [
+    "pyarrow>=25",
+    "pandas>=2.2",
+    "numpy>=2.0",
+    "scikit-learn>=1.9",
+    "xgboost>=3.0",
+    "lightgbm>=4.7",
+    "pygam>=0.12",
+    "statsmodels>=0.15",
+    "shap>=0.52",
+    "matplotlib>=3.9",
+    "seaborn>=0.13",
+]

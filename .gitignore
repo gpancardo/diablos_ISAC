@@ -1,0 +1,23 @@
+# --- Python / virtualenv ---
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# --- Datos (reproducibles / oficiales del certamen, NO versionar) ---
+stuff_model_df.parquet
+stuff_model_df.pkl
+stuff_model_df.rds
+
+# --- Artefactos grandes y reproducibles ---
+results/*.oof.parquet
+results/*.parquet
+dashboard/models/*.joblib
+
+# --- misc ---
+*.log
+.DS_Store
+_audit/
